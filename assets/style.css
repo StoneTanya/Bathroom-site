@@ -1,0 +1,563 @@
+header {
+    position: absolute;
+    background: rgba(208, 177, 148, 0.9);
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+h2 {
+    font-family: 'Cormorant Garamond', serif;
+    color: #FFFFFF;
+    position: absolute;
+    width: 927px;
+    height: 54px;
+    left: 336px;
+    top: 337px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 54px;
+}
+
+h1 {
+    color: #FFFFFF;
+    position: absolute;
+    width: 357px;
+    height: 64px;
+    left: 621px;
+    top: 254px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 105.9%;
+    letter-spacing: 0.17em;
+    text-transform: uppercase;
+}
+
+h3 {
+    position: absolute;
+    width: 90px;
+    height: 18px;
+    left: 100px;
+    top: 0px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.085em;
+    text-transform: uppercase;
+}
+
+h4 {
+    position: absolute;
+    width: 167px;
+    height: 17px;
+    left: 100px;
+    top: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.015em;
+}
+
+.bathmain {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(22, 16, 16, 0.55) 90.62%);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1600px;
+    height: 700px;
+    left: 0px;
+    top: 0px;
+}
+
+.navigation {
+    margin-left: 300px;
+    margin-top: 0px;
+}
+
+#logo {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#logo1 {
+    position: sticky;
+    width: 3.5px;
+    height: 3.5px;
+    left: 41px;
+    margin-top: 28px;
+    margin-left: 0px;
+}
+
+.menu {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    top: 0px;
+    margin: 0px 27px;
+}
+
+.menu:hover {
+    text-decoration: underline;
+    text-decoration-color: rgba(105, 48, 48, 1);
+}
+
+.why {
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 130%;
+    letter-spacing: 0.1em;
+    color: rgba(105, 48, 48, 1);
+    position: absolute;
+    width: 500px;
+    height: 22px;
+    margin-left: 215px;
+    margin-top: 789px;
+}
+
+.wework {
+    color: rgba(47, 47, 47, 1);
+    font-family: 'Cormorant Garamond', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 100%;
+    position: absolute;
+    margin-left: 215px;
+    margin-top: 850px;
+    width: 1200px;
+}
+
+.calk {
+    margin-top: 50px;
+    margin-left: 215px;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 200px;
+}
+
+.type {
+    margin-top: 600px;
+    margin-left: 215px;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 200px;
+}
+
+.paragraph {
+    color: rgba(47, 47, 47, 1);
+    font-family: 'Cormorant Garamond', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 100%;
+}
+
+.line1 {
+    width: 1200px;
+    height: 1px;
+    left: 215px;
+    position: absolute;
+    margin-top: 980px;
+}
+
+.line2 {
+    width: 1200px;
+    height: 1px;
+    left: 215px;
+}
+
+.line3 {
+    width: 100px;
+    height: 1px;
+    margin-top: 140px;
+    padding: 5px;
+    position: absolute;
+
+}
+
+.garanty {
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+    margin-top: 1000px;
+    width: 1600px;
+}
+
+.garanty1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 200px;
+    width: 1400px;
+    margin-left: 110px;
+}
+
+.gar {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 100%;
+    color: #2F2F2F;
+    margin-left: 200px;
+    height: 50px;
+    padding: 5px;
+}
+
+.gar1 {
+
+    color: #2F2F2F;
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    color: #3C3D3D;
+    width: 156px;
+}
+
+
+.application {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 1270px;
+    color: rgba(219, 175, 21, 1);
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+}
+
+.nabor {
+    position: absolute;
+    width: 815px;
+    height: 364.89px;
+    left: 0px;
+    top: 1759px;
+    background: linear-gradient(269.44deg, rgba(253, 247, 240, 0.88) 21.44%, rgba(255, 255, 255, 0.25) 56.43%)
+}
+
+#calculate {
+    width: 1000px;
+    height: 320px;
+    margin-left: 500px;
+    margin-top: 50px;
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    color: #3C3D3D;
+}
+
+
+
+.typeoftoilet {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    padding: 20px;
+    margin-left: 240px;
+    color: rgba(60, 61, 61, 1);
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+}
+
+.wall {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1300px;
+    padding: 10px;
+    margin-left: 250px;
+    color: rgba(60, 61, 61, 1);
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+}
+
+.additional {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 1400px;
+    margin-left: 250px;
+    height: 180px;
+    padding: 10px;
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+}
+
+h6 {
+    margin-left: 260px;
+}
+
+.h6,
+h6 {
+    font-family: 'Arimo', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 150%;
+
+}
+
+.custom-checkbox {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+.custom-checkbox+label {
+    display: inline-flex;
+    align-items: center;
+    user-select: none;
+}
+
+.custom-checkbox+label::before {
+    content: '';
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border: 2px solid #C5B19D;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50% 50%;
+}
+
+.custom-checkbox:checked+label::before {
+    border-color: #C5B19D;
+    background-color: #C5B19D;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+}
+
+
+.select {
+    background: #C5B19D;
+    border-radius: 0px 8px 8px 0px;
+    background: #FAF4ED;
+    border-radius: 8px;
+    width: 120px;
+    margin: 10px;
+}
+
+.typeoftoilet input[type=text] {
+    padding: 9px;
+    margin: 0px, 0;
+    border: 0;
+    border-radius: 5px;
+    width: 50px;
+    height: 10px;
+    font-size: inherit;
+    font-family: inherit;
+    color: rgba(60, 61, 61, 0.5);
+}
+
+.calculate1 input[type=text] {
+    padding: 9px;
+    margin: 0px, 0;
+    border: 0;
+    border-radius: 10px;
+    width: 230px;
+    height: 20px;
+    font-size: inherit;
+    font-family: inherit;
+    color: rgba(60, 61, 61, 0.5);
+}
+
+input[type=submit] {
+    border: 3px solid #DBAF15;
+    box-sizing: border-box;
+    border-radius: 100px;
+    box-shadow: 0 0 15px 4px rgba(238, 187, 79, 0.945);
+    background-color: #FFFFFF;
+    color: #DBAF15;
+    width: 370px;
+    height: 65px;
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+}
+
+.calculate1 {
+    position: absolute;
+    width: 973px;
+    height: 490px;
+    left: 415px;
+    top: 1698px;
+    background: linear-gradient(270deg, #F2E5D5 0%, rgba(255, 255, 255, 0.99) 96.61%), rgba(248, 217, 188, 0.22);
+    border-radius: 32px;
+}
+
+.photowork {
+    display: block;
+    overflow: hidden;
+    position: relative;
+    width: 1200px;
+    margin-left: 215px;
+}
+
+.typeofwork {
+    margin: 10px;
+    width: 270px;
+    height: 207px;
+}
+
+.text {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+    left: 10px;
+    top: 7px;
+    right: 38px;
+    bottom: 10px;
+}
+
+.text1 {
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    color: #FFFFFF;
+    background-color: rgba(208, 177, 148, 0.88);
+    height: 40px;
+    padding: 20px;
+    top: 50px;
+    width: 230px;
+    text-align: center;
+}
+
+.additional {
+    display: flex;
+    width: 1000px;
+}
+
+.footer {
+    display: flex;
+    flex: 0 0 content;
+    width: 1600px;
+    height: 350px;
+    margin-top: 100px;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.footer1,
+.footer2,
+.footer3,
+.Adress {
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.footer1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+
+.final1 {
+    color: black;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.085em;
+    text-transform: uppercase;
+}
+
+.final2 {
+    color: black;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.015em;
+
+}
+
+.help {
+    color: black;
+    text-decoration: none;
+    font-family: 'Arimo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.01em;
+    line-height: 150%;
+}
+
+.help1 {
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+
+.contact,
+.contact1,
+.time {
+    font-family: 'Arimo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+}
+
+.contact,
+.contact1 {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.time {
+    color: rgba(0, 0, 0, 0.4);
+}
